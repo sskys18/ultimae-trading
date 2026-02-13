@@ -1,0 +1,10 @@
+extends: ./default.yaml
+mode: SIMULATION
+riskLimits:
+  maxOpenPositions: 1
+  maxLoanUsd: 100000
+  maxTransferExposureUsd: 25000
+telemetry:
+  enableConsole: false
+  enableFile: true
+  telegramChatId: staging-alerts

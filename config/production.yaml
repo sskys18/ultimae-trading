@@ -1,0 +1,11 @@
+extends: ./default.yaml
+mode: LIVE
+pollIntervalMs: 1000
+riskLimits:
+  maxOpenPositions: 1
+  maxLoanUsd: 750000
+  maxTransferExposureUsd: 150000
+telemetry:
+  enableConsole: false
+  enableFile: true
+  telegramChatId: prod-alerts

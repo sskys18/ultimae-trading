@@ -1,0 +1,11 @@
+node_modules
+.dist
+dist
+coverage
+logs/app/*
+logs/trades/*
+logs/errors/*
+!.gitkeep
+.env
+config/local.yaml
+src/config/generated-types.d.ts

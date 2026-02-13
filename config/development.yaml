@@ -1,0 +1,6 @@
+extends: ./default.yaml
+mode: SIMULATION
+telemetry:
+  enableConsole: true
+  enableFile: true
+  telegramChatId: dev-telegram-chat

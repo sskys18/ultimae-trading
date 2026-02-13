@@ -1,0 +1,30 @@
+{
+  "appName": "Cross-Exchange Arbitrage Bot",
+  "mode": "SIMULATION",
+  "premiumThresholdBps": 120,
+  "reverseThresholdBps": 120,
+  "pollIntervalMs": 2000,
+  "notional": {
+    "btc": 0.5,
+    "usdt": 50000
+  },
+  "feeRateBps": 15,
+  "riskLimits": {
+    "maxOpenPositions": 2,
+    "maxLoanUsd": 200000,
+    "maxTransferExposureUsd": 50000
+  },
+  "connectors": {
+    "binance": {
+      "baseUrl": "https://api.binance.com"
+    },
+    "bithumb": {
+      "baseUrl": "https://global-openapi.bithumb.pro"
+    }
+  },
+  "telemetry": {
+    "enableConsole": true,
+    "enableFile": false,
+    "telegramChatId": "local-sandbox"
+  }
+}
