@@ -1,0 +1,26 @@
+{
+  "run_id": "019f4b27-403a-7000-ada5-3c8e9f0e76b1",
+  "skill": "ralplan",
+  "active": true,
+  "current_phase": "revision",
+  "version": 2,
+  "updated_at": "2026-07-10T08:55:54.711Z",
+  "receipt": {
+    "version": 1,
+    "skill": "ralplan",
+    "owner": "gjc-runtime",
+    "command": "gjc ralplan persist-run-id",
+    "state_path": "/Users/sskys/Mine/ultimae-trading/.gjc/state/sessions/019f4b27-403a-7000-ada5-3c8e9f0e76b1/skill-active-state.json",
+    "storage_path": "/Users/sskys/Mine/ultimae-trading/.gjc/state/sessions/019f4b27-403a-7000-ada5-3c8e9f0e76b1/ralplan-state.json",
+    "mutated_at": "2026-07-10T08:55:54.711Z",
+    "fresh_until": "2026-07-10T09:25:54.711Z",
+    "status": "fresh",
+    "mutation_id": "ralplan:2026-07-10T08:55:54.711Z",
+    "content_sha256": {
+      "algorithm": "sha256",
+      "value": "f4dcbbe2bd289b056dea563c9478d1f7e0e3bc04c12a40cd11d942741d393b50",
+      "covered_path": "/Users/sskys/Mine/ultimae-trading/.gjc/_session-019f4b27-403a-7000-ada5-3c8e9f0e76b1/state/ralplan-state.json",
+      "computed_at": "2026-07-10T08:55:54.712Z"
+    }
+  }
+}

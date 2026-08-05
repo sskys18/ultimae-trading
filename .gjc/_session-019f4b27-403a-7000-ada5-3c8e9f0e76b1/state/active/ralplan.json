@@ -1,0 +1,32 @@
+{
+  "skill": "ralplan",
+  "phase": "revision",
+  "active": true,
+  "activated_at": "2026-07-10T08:55:54.721Z",
+  "updated_at": "2026-07-10T08:55:54.721Z",
+  "session_id": "019f4b27-403a-7000-ada5-3c8e9f0e76b1",
+  "hud": {
+    "version": 1,
+    "summary": "persisted revision stage 2",
+    "chips": [
+      {
+        "label": "stage",
+        "value": "revision",
+        "priority": 10
+      },
+      {
+        "label": "iter",
+        "value": "2",
+        "priority": 30
+      },
+      {
+        "label": "stages",
+        "value": "R",
+        "priority": 35
+      }
+    ],
+    "updated_at": "2026-07-10T08:55:54.720Z"
+  },
+  "source_state_revision": 2,
+  "state_revision": 2
+}

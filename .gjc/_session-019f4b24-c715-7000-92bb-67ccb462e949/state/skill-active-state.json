@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "active": true,
+  "skill": "ralplan",
+  "keyword": "/skill:ralplan",
+  "phase": "planner",
+  "activated_at": "2026-07-10T08:30:06.541Z",
+  "updated_at": "2026-07-10T08:30:06.541Z",
+  "source": "gjc-skill-invocation",
+  "session_id": "019f4b24-c715-7000-92bb-67ccb462e949",
+  "initialized_mode": "ralplan",
+  "initialized_state_path": "/Users/sskys/Mine/ultimae-trading/.gjc/_session-019f4b24-c715-7000-92bb-67ccb462e949/state/ralplan-state.json",
+  "active_skills": [
+    {
+      "skill": "ralplan",
+      "phase": "planner",
+      "active": true,
+      "activated_at": "2026-07-10T08:30:06.541Z",
+      "updated_at": "2026-07-10T08:30:06.541Z",
+      "session_id": "019f4b24-c715-7000-92bb-67ccb462e949"
+    }
+  ],
+  "source_state_revision": 2,
+  "state_revision": 2
+}
